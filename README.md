@@ -1,7 +1,12 @@
 # azena
 Slides and example code on the training HTML, CSS, JavaScript and Vue - summer 2022
 
-## Links - day  1
+## Links - day  #2
+- `Vue Fundamentals repo`: https://github.com/PeterKassenaar/vue-fundamentals
+- ...
+
+
+## Links - day  #1
 - `Yarn Package Manager`. Just an alternative to NPM (although the builders (Facebook) of course will make you believe otherwise ;-). https://yarnpkg.com/
 - `Can I Use`? See if you can use a specific tag or technique in different browsers: https://caniuse.com/
 - `ZoomIt` : tool by Mark Russinovich (Microsoft) to draw on the screen and zoom in/out: https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
