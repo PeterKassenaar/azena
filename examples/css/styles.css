@@ -1,0 +1,52 @@
+/*1. Element Selector. Just use the HTML tag name without < and >*/
+body {
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+img {
+    width: 50%;
+}
+
+h2 {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: red;
+    color: whitesmoke;
+}
+
+/*2. ID selectors. Use id="..." in HTML and the # sign in CSS */
+#page-header {
+    font-size: 48px;
+    color: rebeccapurple;
+    font-family: "Times New Roman", serif;
+}
+
+/* 3. Class selectors. Use class="..." in HTML and a dot . in CSS*/
+.favorite {
+    /*long hand notation */
+    /*border-right-color: blue;*/
+    /*border-right-style: solid;*/
+    /*border-right-width: 5px;*/
+    /*    short hand notation */
+    border-right: 10px solid green;
+}
+
+/*The CSS box model denotes whitespace inside and outside elements */
+.box {
+    background-color: white;
+    width: 50%;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 100px 50px 10px 50px;
+}
