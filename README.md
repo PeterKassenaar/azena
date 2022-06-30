@@ -3,7 +3,8 @@ Slides and example code on the training HTML, CSS, JavaScript and Vue - summer 2
 
 ## Links - day  #2
 - `Vue Fundamentals repo`: https://github.com/PeterKassenaar/vue-fundamentals
-- ...
+- `Angular vs. Vue vs. React - which one to choose in 2022`: https://athemes.com/guides/angular-vs-react-vs-vue/
+- 
 
 
 ## Links - day  #1
