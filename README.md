@@ -1,11 +1,15 @@
 # azena
 Slides and example code on the training HTML, CSS, JavaScript and Vue - summer 2022
 
+## Links - day  #3
+- ...
+
 ## Links - day  #2
 - `Vue Fundamentals repo`: https://github.com/PeterKassenaar/vue-fundamentals
 - `Angular vs. Vue vs. React - which one to choose in 2022`: https://athemes.com/guides/angular-vs-react-vs-vue/
-- 
 
+## Vue needs the Key attribute
+![Vue and the key attribute](examples/img/VueKey.png?raw=true "Vue and the role of Key")
 
 ## Links - day  #1
 - `Yarn Package Manager`. Just an alternative to NPM (although the builders (Facebook) of course will make you believe otherwise ;-). https://yarnpkg.com/
