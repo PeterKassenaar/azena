@@ -2,6 +2,7 @@
 Slides and example code on the training HTML, CSS, JavaScript and Vue - summer 2022
 
 ## Links - day  #3
+- `Lifecycle hooks in Vue 2`: https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram
 - ...
 
 ## Links - day  #2
