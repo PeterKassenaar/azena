@@ -3,7 +3,7 @@ Slides and example code on the training HTML, CSS, JavaScript and Vue - summer 2
 
 ## Links - day  #3
 - `Lifecycle hooks in Vue 2`: https://v2.vuejs.org/v2/guide/instance.html#Lifecycle-Diagram
-- ...
+- `All kinds of APIs` : https://github.com/public-apis/public-apis
 
 ## Links - day  #2
 - `Vue Fundamentals repo`: https://github.com/PeterKassenaar/vue-fundamentals
